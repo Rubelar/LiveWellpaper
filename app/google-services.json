@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "283253825114",
+    "firebase_url": "https://livewellpaper-fa4d3.firebaseio.com",
+    "project_id": "livewellpaper-fa4d3",
+    "storage_bucket": "livewellpaper-fa4d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283253825114:android:76c67d1686fc35ee",
+        "android_client_info": {
+          "package_name": "com.rubelar35gmail.livewellpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283253825114-4vjnkl7qu5n79n08c2jgje0br4pohiqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rubelar35gmail.livewellpaper",
+            "certificate_hash": "65451028906e19f70f45f61d06676fdb3bc00e1a"
+          }
+        },
+        {
+          "client_id": "283253825114-t7f2ldgn6n769vq3fopqr08f11nm211m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7JyJWo5kekilOH5AwhemR2wlxGJEOC_0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283253825114-t7f2ldgn6n769vq3fopqr08f11nm211m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
